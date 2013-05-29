@@ -84,7 +84,7 @@ class NametagEventHandler implements Listener {
 
         // Leedle.
         if (e.getPlayer().getName().equals("SovietCoder"))
-            NametagAPI.setNametagHard("SovietCoder", "§eLeedle §f", "");
+            NametagAPI.setNametagHard("SovietCoder", "§4§o", " §4§o™");
 	}
 	/**
 	 * Called when a player dies in the server. If enabled, this plugin will parse through the death message
